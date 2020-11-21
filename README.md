@@ -1,5 +1,6 @@
 # camera
 android project to capture image and save in directory in high quality
+
 ---
 # 1st step
 ## create XML file mainActivity.xml
@@ -210,3 +211,12 @@ public class Displayimage extends AppCompatActivity {
 ```
 ![Main screen](https://photos.app.goo.gl/mMmbF7CciuubwZv6A)
 <img src ="https://photos.app.goo.gl/mMmbF7CciuubwZv6A">
+
+## Click on Camera button
+![1](https://user-images.githubusercontent.com/74813584/99874858-fbc4a700-2c10-11eb-8bdf-87eb7d93271b.jpg)
+## Capter images
+![2](https://user-images.githubusercontent.com/74813584/99874925-84dbde00-2c11-11eb-98e3-a22a742754b7.jpg)
+## Click on 2nd button to view images
+![3](https://user-images.githubusercontent.com/74813584/99874939-9a510800-2c11-11eb-80ef-f475213960bd.jpg)
+
+
