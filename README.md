@@ -208,3 +208,5 @@ public class Displayimage extends AppCompatActivity {
 
 </paths>
 ```
+![Main screen](https://photos.app.goo.gl/mMmbF7CciuubwZv6A)
+<img src ="https://photos.app.goo.gl/mMmbF7CciuubwZv6A">
